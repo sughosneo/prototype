@@ -1,0 +1,1 @@
+This directory would have all database related items.
